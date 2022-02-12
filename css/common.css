@@ -594,6 +594,9 @@ header .drawer {
   .copyright {
     font-size: 0.3em;
   }
+  .how_wrapper {
+    display: block;
+  }
 }
 @media screen and (max-width: 300px) {
   .font1 p {
